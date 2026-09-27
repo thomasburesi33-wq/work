@@ -1,0 +1,272 @@
+{
+    "Versions": [
+        {
+            "ETag": "\"048594b2386bf28fd47eb8fd06ca558e\"",
+            "Size": 5855,
+            "StorageClass": "STANDARD",
+            "Key": "bronze/users.csv",
+            "VersionId": "6726dcfcb66f9ad7c5c33fe99edf31e9",
+            "IsLatest": false,
+            "LastModified": "2026-09-27T09:20:23+00:00",
+            "Owner": {
+                "DisplayName": "admin",
+                "ID": "admin"
+            }
+        },
+        {
+            "ETag": "\"f417cb9f9b9042850fc9aa42810a3a01\"",
+            "Size": 7351,
+            "StorageClass": "STANDARD",
+            "Key": "bronze/users.csv",
+            "VersionId": "6726dcfd356697f1199c878db825b77b",
+            "IsLatest": false,
+            "LastModified": "2026-09-27T09:20:21+00:00",
+            "Owner": {
+                "DisplayName": "admin",
+                "ID": "admin"
+            }
+        },
+        {
+            "ETag": "\"f417cb9f9b9042850fc9aa42810a3a01\"",
+            "Size": 7351,
+            "StorageClass": "STANDARD",
+            "Key": "bronze/users.csv",
+            "VersionId": "6726dd135f46865bc703c3e0cd798e51",
+            "IsLatest": false,
+            "LastModified": "2026-09-27T09:18:46+00:00",
+            "Owner": {
+                "DisplayName": "admin",
+                "ID": "admin"
+            }
+        },
+        {
+            "ETag": "\"f417cb9f9b9042850fc9aa42810a3a01\"",
+            "Size": 7351,
+            "StorageClass": "STANDARD",
+            "Key": "bronze/users.csv",
+            "VersionId": "6726dd1835cad88143b0930e2d066026",
+            "IsLatest": false,
+            "LastModified": "2026-09-27T09:18:25+00:00",
+            "Owner": {
+                "DisplayName": "admin",
+                "ID": "admin"
+            }
+        },
+        {
+            "ETag": "\"f417cb9f9b9042850fc9aa42810a3a01\"",
+            "Size": 7351,
+            "StorageClass": "STANDARD",
+            "Key": "bronze/users.csv",
+            "VersionId": "6726dd4179e6607ed48cda572f8aa6ba",
+            "IsLatest": false,
+            "LastModified": "2026-09-27T09:15:28+00:00",
+            "Owner": {
+                "DisplayName": "admin",
+                "ID": "admin"
+            }
+        },
+        {
+            "ETag": "\"ecb77755c859b3c352b74645676d54c6\"",
+            "Size": 5855,
+            "StorageClass": "STANDARD",
+            "Key": "bronze/users.csv",
+            "VersionId": "6728afe02ee84f62bdbcb90c4f48662e",
+            "IsLatest": false,
+            "LastModified": "2026-09-21T10:44:34+00:00",
+            "Owner": {
+                "DisplayName": "admin",
+                "ID": "admin"
+            }
+        },
+        {
+            "ETag": "\"d41d8cd98f00b204e9800998ecf8427e\"",
+            "Size": 0,
+            "StorageClass": "STANDARD",
+            "Key": "bronze/users.csv",
+            "VersionId": "6728afe0a9b677a10e96e6df64134297",
+            "IsLatest": false,
+            "LastModified": "2026-09-21T10:44:32+00:00",
+            "Owner": {
+                "DisplayName": "admin",
+                "ID": "admin"
+            }
+        },
+        {
+            "ETag": "\"d41d8cd98f00b204e9800998ecf8427e\"",
+            "Size": 0,
+            "StorageClass": "STANDARD",
+            "Key": "bronze/users.csv",
+            "VersionId": "6728b09b172521110e803c891ef64494",
+            "IsLatest": false,
+            "LastModified": "2026-09-21T10:31:11+00:00",
+            "Owner": {
+                "DisplayName": "admin",
+                "ID": "admin"
+            }
+        },
+        {
+            "ETag": "\"d41d8cd98f00b204e9800998ecf8427e\"",
+            "Size": 0,
+            "StorageClass": "STANDARD",
+            "Key": "bronze/users.csv",
+            "VersionId": "6728b09ba439ceb4748adf0043a9a036",
+            "IsLatest": false,
+            "LastModified": "2026-09-21T10:31:09+00:00",
+            "Owner": {
+                "DisplayName": "admin",
+                "ID": "admin"
+            }
+        },
+        {
+            "ETag": "\"d41d8cd98f00b204e9800998ecf8427e\"",
+            "Size": 0,
+            "StorageClass": "STANDARD",
+            "Key": "bronze/users.csv",
+            "VersionId": "6728b0d2c54ffdaf09c93854f9cce140",
+            "IsLatest": false,
+            "LastModified": "2026-09-21T10:27:12+00:00",
+            "Owner": {
+                "DisplayName": "admin",
+                "ID": "admin"
+            }
+        },
+        {
+            "ETag": "\"d41d8cd98f00b204e9800998ecf8427e\"",
+            "Size": 0,
+            "StorageClass": "STANDARD",
+            "Key": "bronze/users.csv",
+            "VersionId": "6728b0d333e4e353fb69e002c6d2bd4d",
+            "IsLatest": false,
+            "LastModified": "2026-09-21T10:27:10+00:00",
+            "Owner": {
+                "DisplayName": "admin",
+                "ID": "admin"
+            }
+        },
+        {
+            "ETag": "\"d41d8cd98f00b204e9800998ecf8427e\"",
+            "Size": 0,
+            "StorageClass": "STANDARD",
+            "Key": "bronze/users.csv",
+            "VersionId": "6728b0dcdcb01c618f85a201cd851ae1",
+            "IsLatest": false,
+            "LastModified": "2026-09-21T10:26:29+00:00",
+            "Owner": {
+                "DisplayName": "admin",
+                "ID": "admin"
+            }
+        },
+        {
+            "ETag": "\"d41d8cd98f00b204e9800998ecf8427e\"",
+            "Size": 0,
+            "StorageClass": "STANDARD",
+            "Key": "bronze/users.csv",
+            "VersionId": "6728b0dd43a2fc764c2ef62978bf7073",
+            "IsLatest": false,
+            "LastModified": "2026-09-21T10:26:27+00:00",
+            "Owner": {
+                "DisplayName": "admin",
+                "ID": "admin"
+            }
+        },
+        {
+            "ETag": "\"d41d8cd98f00b204e9800998ecf8427e\"",
+            "Size": 0,
+            "StorageClass": "STANDARD",
+            "Key": "bronze/users.csv",
+            "VersionId": "6728b10077bd6679765b575e3036196f",
+            "IsLatest": false,
+            "LastModified": "2026-09-21T10:23:56+00:00",
+            "Owner": {
+                "DisplayName": "admin",
+                "ID": "admin"
+            }
+        },
+        {
+            "ETag": "\"d41d8cd98f00b204e9800998ecf8427e\"",
+            "Size": 0,
+            "StorageClass": "STANDARD",
+            "Key": "bronze/users.csv",
+            "VersionId": "6728b100df97f70a536529b1fdec7b0e",
+            "IsLatest": false,
+            "LastModified": "2026-09-21T10:23:54+00:00",
+            "Owner": {
+                "DisplayName": "admin",
+                "ID": "admin"
+            }
+        },
+        {
+            "ETag": "\"d41d8cd98f00b204e9800998ecf8427e\"",
+            "Size": 0,
+            "StorageClass": "STANDARD",
+            "Key": "bronze/users.csv",
+            "VersionId": "6728b122601d54182eb7a7c4038b8e1f",
+            "IsLatest": false,
+            "LastModified": "2026-09-21T10:21:30+00:00",
+            "Owner": {
+                "DisplayName": "admin",
+                "ID": "admin"
+            }
+        },
+        {
+            "ETag": "\"d41d8cd98f00b204e9800998ecf8427e\"",
+            "Size": 0,
+            "StorageClass": "STANDARD",
+            "Key": "bronze/users.csv",
+            "VersionId": "6728b122c6f303cdfbd150b5e92fcb7d",
+            "IsLatest": false,
+            "LastModified": "2026-09-21T10:21:28+00:00",
+            "Owner": {
+                "DisplayName": "admin",
+                "ID": "admin"
+            }
+        },
+        {
+            "ETag": "\"\"",
+            "Size": 0,
+            "StorageClass": "STANDARD",
+            "Key": "bronze/users.csv",
+            "VersionId": "null",
+            "IsLatest": false,
+            "LastModified": "2026-09-21T10:14:26+00:00",
+            "Owner": {
+                "DisplayName": "admin",
+                "ID": "admin"
+            }
+        }
+    ],
+    "DeleteMarkers": [
+        {
+            "Owner": {
+                "DisplayName": "anonymous",
+                "ID": "anonymous"
+            },
+            "Key": "bronze/users.csv",
+            "VersionId": "6726dc9abc308241277da0cd649a7808",
+            "IsLatest": true,
+            "LastModified": "2026-09-27T09:27:24+00:00"
+        },
+        {
+            "Owner": {
+                "DisplayName": "anonymous",
+                "ID": "anonymous"
+            },
+            "Key": "bronze/users.csv",
+            "VersionId": "6726dd22ce0e1bf09e126c505d230c1b",
+            "IsLatest": false,
+            "LastModified": "2026-09-27T09:17:40+00:00"
+        },
+        {
+            "Owner": {
+                "DisplayName": "anonymous",
+                "ID": "anonymous"
+            },
+            "Key": "bronze/users.csv",
+            "VersionId": "6726ddc51b317023851626e36d1f5997",
+            "IsLatest": false,
+            "LastModified": "2026-09-27T09:06:03+00:00"
+        }
+    ],
+    "RequestCharged": null,
+    "Prefix": "bronze/users.csv"
+}
