@@ -1,12 +1,27 @@
+# --- On ignore tout ce qui commence par un point par défaut ---
 .*
+
+# --- ...sauf ces fichiers de config qu'on veut versionner ---
 !.gitignore
 !.python-version
+
+# --- Python / uv ---
 __pycache__/
-*.csv
-*.csv
+*.pyc
 *.env
+
+# --- dbt ---
+target/
+dbt_packages/
+logs/
+*.duckdb
+
+# --- AWS / policies ---
 policy.json
 lifecycle.json
 delete.json
-.venv/
-__pycache__/
+
+# --- CSV : on garde orders.csv et users.csv ---
+*.csv
+!orders.csv
+!users.csv
