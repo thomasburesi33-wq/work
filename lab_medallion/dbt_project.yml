@@ -16,3 +16,6 @@ models:
     silver:
       +materialized: view
       +schema: silver
+seeds:
+    lab_medallion:
+      +schema: seeds

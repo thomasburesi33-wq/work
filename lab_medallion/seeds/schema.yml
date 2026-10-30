@@ -1,0 +1,16 @@
+version: 2
+
+seeds:
+  - name: state_zip_ranges
+    description: "Plages de ZIP codes valides par state (source USPS)."
+    columns:
+      - name: state
+        data_tests:
+          - unique
+          - not_null
+      - name: zip_min
+        data_tests:
+          - not_null
+      - name: zip_max
+        data_tests:
+          - not_null
