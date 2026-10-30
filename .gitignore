@@ -25,3 +25,4 @@ delete.json
 *.csv
 !orders.csv
 !users.csv
+!lab_medallion/seeds/state_zip_ranges.csv
